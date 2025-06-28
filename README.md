@@ -55,7 +55,7 @@ UI노드와 제어노드로 분리되어 (규칙적인2D용접기능_UI.py), (�
 
 ![규칙적인 3D 용접 py - 노드 통신 구조](https://github.com/user-attachments/assets/81421d74-08e1-4a6a-a9a2-2ec8a4b83d33)
 
-※두산 로봇팔에는 DR_MV_ORI_RADIAL: 원주구속자세가 지원이 되지만 ros2에는 지원되지 않고 시간이 부족하여 2D상에서 세점을 잡아 그리는걸로 표현을 했고 추후 발전과제로 남겼다 ※
+###### ※두산로봇팔에는 DR_MV_ORI_RADIAL: 원주구속자세가 지원이 되지만 ros2에는 지원되지 않고 시간이 부족하여 2D상에서 세점을 잡아 그리는걸로 표현을 했고 추후 발전과제로 남겼다※
 
 
 #### 안전기능.py
@@ -67,4 +67,6 @@ def monitor_impact(get_tool_force, get_current_posx, movel, VELOCITY, ACC):
 
 ![충격감지](https://github.com/user-attachments/assets/bdf16ad0-dcb3-438e-bfac-0f345daa175d)
 
+
+###### 추가 내용 pdf 파일 확인
 
