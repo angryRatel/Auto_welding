@@ -8,7 +8,11 @@
 
 ## 실제 시연 영상 : https://youtu.be/wykA4MYREYk
 
-dsr_rokey/rokey/rokey/basic 안의 파일내용
+### 코드 사용시 :  https://github.com/ROKEY-SPARK/DoosanBootcam3rdCo1.git 받아서 파일구조 수정후 사용할것 
+
+
+
+#### dsr_rokey/rokey/rokey/basic 안의 파일내용
 
 ## 작성하여 구현한 코드들
 • 규칙적인 2D 용접 기능
