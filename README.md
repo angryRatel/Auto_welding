@@ -102,18 +102,22 @@ GitHub: [DoosanBootcam3rdCo1](https://github.com/ROKEY-SPARK/DoosanBootcam3rdCo1
 
 ### ✅ 규칙적 2D 용접  
 ![2D UI](https://github.com/user-attachments/assets/e469747a-4e20-47d1-b025-00048b228b06)  
+
+### 아키텍처 구조
 ![2D 통신](https://github.com/user-attachments/assets/a66a08c7-2903-4365-af4d-7555b3660348)
 
 ---
 
 ### ✅ 불규칙적 2D 용접  
-![불규칙 이미지](https://github.com/user-attachments/assets/7cf1485a-9ca2-4930-8a24-a68b1d7a28ff)  
+![불규칙 이미지](https://github.com/user-attachments/assets/7cf1485a-9ca2-4930-8a24-a68b1d7a28ff) 
+### 아키텍처 구조
 ![불규칙 노드](https://github.com/user-attachments/assets/52052adb-73c8-47b4-997b-3c75abac1c29)
 
 ---
 
 ### ✅ 규칙적 3D 용접 (GUI 기반)  
 ![3D GUI](https://github.com/user-attachments/assets/3616910a-82c0-49c0-b7d4-073c56b5a90b)  
+### 아키텍처 구조
 ![3D 통신](https://github.com/user-attachments/assets/81421d74-08e1-4a6a-a9a2-2ec8a4b83d33)
 
 ---
