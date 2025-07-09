@@ -76,6 +76,7 @@ GitHub: [DoosanBootcam3rdCo1](https://github.com/ROKEY-SPARK/DoosanBootcam3rdCo1
 | 이세현 | 규칙적 3D GUI 구현 및 원호 계산 |
 | 홍진규 | Force 센서 기반 안전 기능 및 정지 제어 |
 
+프로젝트는 팀원 전체의 협업을 바탕으로 진행되었으며, 핵심 기능은 역할에 따라 분담하여 개발
 ---
 
 ## 5. 🎯 프로젝트 성과
