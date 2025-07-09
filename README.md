@@ -7,9 +7,9 @@
 ## 🎥 시연 영상  
 [![Demo Video](https://img.youtube.com/vi/wykA4MYREYk/0.jpg)](https://youtu.be/wykA4MYREYk)
 
-## 📁 전체 코드 저장소  
+## 📁 전체 시스탬 구성 코드 저장소  
 GitHub: [DoosanBootcam3rdCo1](https://github.com/ROKEY-SPARK/DoosanBootcam3rdCo1.git)  
-> 주요 경로: `dsr_rokey/rokey/rokey/basic`
+>  `dsr_rokey/rokey/rokey/basic` 경로의 소스를 중심으로 수정 사용
 
 ---
 
@@ -26,7 +26,7 @@ GitHub: [DoosanBootcam3rdCo1](https://github.com/ROKEY-SPARK/DoosanBootcam3rdCo1
 
 > **목표** : 작업 자동화로 인력 수요 해소, 생산 효율 및 안전성 향상  
 
-📅 **일정 요약**
+📅 ** 작업 일정 **
 
 | 기간 | 작업 내용 |
 |------|-----------|
@@ -38,6 +38,7 @@ GitHub: [DoosanBootcam3rdCo1](https://github.com/ROKEY-SPARK/DoosanBootcam3rdCo1
 |총 개발 기간 | 	5/14(수) ~ 5/21(목)(8일)
 ---
 ## 🧪 사용 환경
+
 ![개발환경](https://github.com/user-attachments/assets/9129f23b-ecac-4ec5-9c63-fc5bf04a28b9)
 
 
@@ -82,10 +83,9 @@ GitHub: [DoosanBootcam3rdCo1](https://github.com/ROKEY-SPARK/DoosanBootcam3rdCo1
 - 충돌 감지 시 경고 + 팝업 + 정지 동작 정상 작동  
 - 프로젝트 시연 100% 성공 (2D, 3D, 안전기능 포함)
 
-
 ---
-
-## 6. 📸 프로젝트 화면 및 기능 데모 
+## 6. 📈 프로젝트 결과 (목표와 성과)
+## 7. 📸 프로젝트 화면 및 기능 데모 
 
 ### ✅ 규칙적 2D 용접
 - 시작점~도착점 교시 → 직선 이동  
@@ -110,15 +110,15 @@ GitHub: [DoosanBootcam3rdCo1](https://github.com/ROKEY-SPARK/DoosanBootcam3rdCo1
 
 ---
 
-## 7. ✏ 후기 및 향후 개선 사항 
+## 8. ✏ 후기 및 향후 개선 사항 
 
 - ✔ GUI와 제어 노드 간 충돌이 있어 완전 통합에 일부 제약  
 - ✔ 원주 방향 자세 제어 미지원 → movec 대체로 해결했으나 한계 존재  
-- 🔧 향후 개선: 원주방향 지원이 가능한 moveC 개선 및 시뮬레이션 최적화
+- **🔧 향후 개선: 원주방향 지원이 가능한 moveC 개선 및 시뮬레이션 최적화**
 
 ---
 
-## 8. 🎓 개인적 성장 및 배운 점 
+## 9. 🎓 개인적 성찰 및 배운 점 
 
 - ROS2 통신 구조에 대한 실전 이해  
 - 센서 데이터 처리 및 안전 기능 설계  
@@ -127,17 +127,13 @@ GitHub: [DoosanBootcam3rdCo1](https://github.com/ROKEY-SPARK/DoosanBootcam3rdCo1
 
 ---
 
-## 9. 🚀 개선 및 확장 아이디어 
+## 10. 🚀 개선 및 확장 아이디어 
 
 - 📸 **Machine Vision 품질 검사** 시스템 연동  
   > (OpenCV + AI 모델 + CNN 결함 판단 알고리즘)  
 - 📶 **MQTT 기반 IoT 확장** 및 다로봇 통신  
 - 🤖 **자가학습 기반 경로 최적화** 로직 도입  
 - 📱 **모바일 앱 GUI 제어** 기능 개발
-
----
-
-
 
 ---
 
