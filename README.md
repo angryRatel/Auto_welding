@@ -35,7 +35,7 @@ GitHub: [DoosanBootcam3rdCo1](https://github.com/ROKEY-SPARK/DoosanBootcam3rdCo1
 | 5/17 ~ 5/18 | 기능별 코드 개발 |
 | 5/19 ~ 5/20 | 중간 점검 및 통합 |
 | 5/20 ~ 5/21 | 최종 테스트 및 시연 준비 |
-| 총 개발 기간 | **8일** (5/14 ~ 5/21)
+| 총 개발 기간 | 8일 (5/14 ~ 5/21) |
 
 ---
 
